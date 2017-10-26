@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 int main(void)
 {
 	int n,a=0,b=1,c,i;
@@ -11,5 +11,5 @@ int main(void)
 			  a=b;
 			  b=c;
 		}
-}
+}*/
 

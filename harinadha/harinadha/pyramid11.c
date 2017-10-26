@@ -1,6 +1,6 @@
-#include<stdio.h>
+/*#include<stdio.h>
 #include<conio.h>
-    /*  int main(void)
+      int main(void)
 	  {
 		  int i,j,n;
 		    n=10;
@@ -15,8 +15,8 @@
 			  
 			    while(1);
 				getch();
-				return 0;*/
+				return 0;
 			  
-	  }
+	  }*/
 
 

@@ -51,5 +51,8 @@
     <ClCompile Include="fibonacci.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="add.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

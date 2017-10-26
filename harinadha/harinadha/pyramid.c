@@ -1,6 +1,6 @@
-#include<stdio.h>
+/*#include<stdio.h>
 #include<conio.h>
-   /* int main(void)
+    int main(void)
 	{
        int x,y,n,sp;
         n=5;
